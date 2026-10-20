@@ -2,6 +2,7 @@
 
 > 只列来源类型与选择标准，不保证每个节目长期可用、免费或带完整转写；使用前核对当前访问方式、字幕/转写、地区限制与版权。
 > 原则：个人学习范围内使用；不重新分发音频或转写；会议/客户材料需许可或改用虚构内容。
+> 每日搜索、验证、材料卡与复盘流程见 `daily-listening.md`。
 
 ## 一、选材标准（先于来源）
 
@@ -11,6 +12,42 @@
 4. **与任务相关**：工作、面试、行业或日常场景优先。
 5. **可重复**：你愿意回来听第二遍。
 6. **有边界**：访问、版权、录音与分享条件清楚。
+
+### 1.1 每日来源池（优先英式）
+
+英国及英式英语来源：
+
+- BBC Sounds
+- BBC World Service
+- BBC Learning English
+- Financial Times Podcasts
+- The Guardian Podcasts
+- The Economist Podcasts
+- Sky News Podcasts
+- Times Radio
+- Intelligence Squared
+- Monocle Radio
+- The Rest Is Politics
+- The Rest Is Money
+- Diary of a CEO
+
+其他高质量来源：
+
+- TED Talks / TED Business / TED Tech
+- NPR / Planet Money
+- Bloomberg Podcasts
+- HBR IdeaCast
+- MIT Technology Review
+- Wired Podcasts
+- The Vergecast
+- Vox Podcasts
+- DW Podcasts
+- ABC Australia
+- CBC Podcasts
+
+YouTube 可用，但必须是以上媒体、大学、研究机构、知名会议或专业创作者的官方频道，并直接指向具体视频，不能给频道首页。
+
+每次至少检查 3 个不同来源；英国来源优先，但材料质量与可播放性优先于口音。具体单集、日期/时长与播放器验证见 `daily-listening.md`。
 
 ## 二、按水平的来源建议
 
