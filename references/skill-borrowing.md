@@ -1,0 +1,25 @@
+# 外部来源与许可（v1）
+
+> 原则：只借鉴方法与结构，不复制原文；许可以来源页为准；未核验的许可证不写成"已授权"。
+
+| # | 来源 | 许可/状态 | 借鉴内容 |
+| --- | --- | --- | --- |
+| 1 | byoungd/up《人生进阶指南》 https://github.com/byoungd/up | 正文 CC BY-NC 4.0（站点代码 MIT）；非商业使用，署名 | 口语任务优先与三种无稿基线；口音/可理解度/理解难度分层；高影响发音与节奏；词块支架；修复即能力；听力六层错误地图、支架阶梯、五遍分工、平行材料复测；证据卡与 7/30 天迁移 |
+| 2 | Vera-2334 `ielts-speaking-tutor` | 许可未核验，`reference_only` | TS+SD 回答框架；按 register 分轨纠错；自评反思问题 |
+| 3 | 用户提供的口语训练 PDF prompt | 来源/许可不明，`reference_only` | 陪练角色、i+1、一次一问、不中途纠错、冷启动、`scenario:` 命令、Track A/B 双轨缺口、卡片规则、process inbox |
+| 4 | jezweb/claude-skills `us-business-english` | 许可未核验，`reference_only` | 工作沟通的"结论先行"与语气阶梯；书面部分保留在 legal-career-advisor，口语沿用其语气意识 |
+| 5 | maverickgao8848/kouyu（口语练习台） | 未找到 LICENSE（404），`reference_only` | 时长/难度/辅助模式三选项；预习卡按时长扩容；提示阶梯；覆盖率台账（示范/提示/独立/待复测）；`I'm ready.` / `Let's wrap up.` 控制；掌握度与"示范不算掌握"；纯文字不得评价发音；本地归档思路 |
+
+## 5. maverickgao8848/kouyu（口语练习台）
+
+- 来源：https://github.com/maverickgao8848/kouyu（skills.sh 显示 3 次安装）；仓库根 `LICENSE` 返回 404，许可未核验，登记为 `reference_only`。
+- 借鉴：5/10/20/40 分钟与入门/中级/进阶、沉浸式/引导式/学习式三选项；预习卡随时长扩容（关键词 15/20/30/40）；中文意图提示→英文关键词→范句的提示阶梯；覆盖率台账与"示范不等于掌握"；开始/结束控制语；收口报告区分独立/提示/模仿/未出现；纯文字会话发音记 `not_observed`；本地归档便于复练。
+- 已用于：`session-design.md`（时长/难度/模式、预习卡、覆盖率、状态机）、`basic-training-plan.md`（四周计划与纯文字路径）、`session-log-and-cards.md`（报告与掌握度）、`rubric-speaking-review.md`（覆盖与报告项）。均为改写，不复制原文。
+- 不采用：Python 本地复习台与 JSON 归档脚本（本技能用 Markdown 日志，避免额外运行时依赖）；固定课程包与具体主题清单；逐字文案。
+
+## 使用说明
+
+- 本技能为个人/内部非商业练习工具；引用 CC BY-NC 4.0 材料时保留署名与来源链接，不再分发原文。
+- 不把借用的句子、模板原文当作自有内容；所有协议文本为改写。
+- 若未来商用，需重新核验第 1 项的非商业限制及第 2–4 项许可。
+- 来源更新或删除时，本文件记录失效，不追认旧结论。
